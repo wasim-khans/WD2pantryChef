@@ -1,9 +1,15 @@
-To install the project run:
+How to run?
+1: Git clone the repo 
+```bash
+git clone https://github.com/wasim-khans/WD2pantryChef.git
+```
+
+2: To install the project run:
 ```bash
 npm install
 ```
 
-To run the project run:
+3: To run the project run:
 ```bash
 npm run dev
 ```
