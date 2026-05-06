@@ -1,4 +1,6 @@
-How to run?
+Heya! Welcome to Pantry Chef, Happy to have you here!
+
+Below are the steps to run this project:
 1: Git clone the repo 
 ```bash
 git clone https://github.com/wasim-khans/WD2pantryChef.git
