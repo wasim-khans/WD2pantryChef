@@ -71,15 +71,16 @@ export default function About() {
                 <p className="font-medium text-gray-900">Muhammad Wasim Khan</p>
               </div>
               <hr className="border-gray-200" />
-              {/* GitHub link hidden for now */}
               <div>
                 <p className="text-xs text-gray-400 uppercase tracking-wider">Contact</p>
                 <a
-                  href="mailto:muhammadwasimkhan8@gmail.com"
+                  href="https://github.com/wasim-khans"
                   className="font-medium text-gray-900 hover:underline"
-                  title="Send me an email"
+                  title="View my GitHub profile"
+                  target="_blank"
+                  rel="noreferrer"
                 >
-                  muhammadwasimkhan8@gmail.com
+                  GitHub profile
                 </a>
               </div>
               <hr className="border-gray-200" />
